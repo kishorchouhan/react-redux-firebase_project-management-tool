@@ -1,3 +1,32 @@
+# Project Management Tool using React, Redux and Firebase
+
+### Links to GitHub Repository (Master Branch)
+
+- My GitHub Project Repository: [https://github.com/kishorchouhan/react-redux-firebase_project-management-tool](https://github.com/kishorchouhan/react-redux-firebase_project-management-tool "My GitHub Project Repository")
+
+- My Project Website Is Hosted Here: [my-marioplan-project.firebaseapp.com](my-marioplan-project.firebaseapp.com "My Hosted Website Link #1")  &  [my-marioplan-project.web.app](my-marioplan-project.web.app "My Hosted Website Link #2")
+
+To run the website and take code on local machine:
+
+1. Download the GitHub zip file or clone the repository onto your local workstation:
+   - zip file [https://github.com/kishorchouhan/react-redux-firebase_project-management-tool/archive/master.zip](https://github.com/kishorchouhan/react-redux-firebase_project-management-tool/archive/master.zip "download zip file")
+   - git clone [https://github.com/kishorchouhan/react-redux-firebase_project-management-tool.git/](https://github.com/kishorchouhan/react-redux-firebase_project-management-tool.git "git clone repository")
+2. Open a terminal window and run "npm start".
+
+## Overview
+
+This is a simple Project Management Tool using React, Redux and Firebase.
+
+The point of this project is to help understanding some key ideas of React, Redux and firebase.
+
+## Features
+
+- Lets you sign up and sign in;
+- Lets you add new project and description;
+- Show notification if new project is added;
+
+## Pre-written readme file by create react app:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
